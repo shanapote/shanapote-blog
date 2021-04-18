@@ -3,8 +3,8 @@ title: Grey like my Hair
 email: steve.pote@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal Dev Blog. Apologies, requests for comments and Ugly Babies.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "/scp-localhost" # the base hostname & protocol for your site
+baseurl: "/scp-localhost" # the subpath of your site, e.g. /blog
+url: "/scp-localhost.gitlab.io" # the base hostname & protocol for your site
 twitter_username: scp15487477
 github_username:  scp-localhost
 gitlab_username:  scp-localhost
