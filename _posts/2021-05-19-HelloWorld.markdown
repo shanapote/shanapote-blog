@@ -8,7 +8,7 @@ categories: shanapote blog
 ## This is a test post because my husband is making me apply new knowledge.
 
 **On github**
-- check that the repo name suits you. remember there are special rules for *hosting*
+- check that the repo name suits you. remember there are special rules for *hosting* 
 - <a href=#>word</a>
 
 _Locally or in the GH GUI_
