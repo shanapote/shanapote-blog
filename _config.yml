@@ -1,13 +1,13 @@
 # Site settings
-title: Grey like my Hair
-email: steve.pote@protonmail.com
+title: Theses and Fleeces
+email: shana.pote@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal Dev Blog. Apologies, requests for comments and Ugly Babies.
+  Personal Blog...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/scp-localhost.gitlab.io" # the base hostname & protocol for your site
-twitter_username: scp_localhost
-github_username:  scp-localhost
-gitlab_username:  scp-localhost
+url: "/shanapote.github.io" # the base hostname & protocol for your site
+twitter_username: ShanaPote
+github_username:  shanapote
+
 
 # Outputting
 permalink: /:categories/:year/:month/:day/:title
