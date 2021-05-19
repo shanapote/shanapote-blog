@@ -29,4 +29,4 @@ __Posts__
 - live in the _posts folder
 - filename should have a date but really doesn't matter
 - date in the tags is when it will show and what will show as post date
-- I find it easier to locally create the posts, git add, git commit and git push them...you may like the web GUI better but _ edits are stored _
+- I find it easier to locally create the posts, git add, git commit and git push them...you may like the web GUI better but _edits are stored_
